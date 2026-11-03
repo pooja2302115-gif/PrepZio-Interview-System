@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+python-multipart
+torch
+tokenizers
+numpy
+pandas
+scikit-learn
+sentence-transformers
+pypdf
+python-docx
+supabase
